@@ -13,8 +13,10 @@ one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,
 
 Objective
 
-Show that isomorphic graphs $( G_1 )$ and $( G_2 )$ do not have to be completely connected. This can be shown by a counterexample.
+Show that isomorphic graphs $( G_1 )$ and $( G_2 )$ do not have to be completely connected. We will prove this by a counterexample.
 
 Counterexample
 
 Consider graphs $( G_1 )$ and $( G_2 )$ each containing three vertices, defined as follows:
+
+- $( G_1 = (V_1, E_1) )$ where $( V_1 = {v_1, v_2, v_3\} )$ and $( E_1 = {(v_1, v_2), (v_2, v_3)} )$.
