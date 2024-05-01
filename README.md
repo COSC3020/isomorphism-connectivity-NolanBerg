@@ -7,6 +7,8 @@ isomorphism below. Add your answer to this markdown file. [This
 page](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
 might help with the notation for mathematical expressions.
 
+Sources: Used google for thi assignment
+
 $G_1=(V_1 , E_1)$ is isomorphic to $G_2 = (V_2, E_2)$ if there exists a
 one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,v)
 \in E_1$ iff $(f(u),f(v)) \in E_2$.
@@ -36,5 +38,9 @@ Adjacency Preservation:
 - $( v_1 )$ is not adjacent to $( v_3 )$ in $( G_1 )$, and similarly, $( f(v_1) = w_1 )$ is not adjacent to $( f(v_3) = w_3 )$ in $( G_2 )$.
 
 Since all adjacency relations are preserved by bijection $( f )$, and $( (u,v) \in E_1 )$ if and only if $( (f(u),f(v)) \in E_2 )$, the graphs $( G_1 )$ and $( G_2 )$ are isomorphic.
+
+Analysis
+
+Neither $( G_1 )$ nor $( G_2 )$ is a complete graph because there are pairs of vertices in each graph that do not have an edge between them (e.g., $( v_1 )$ and $( v_3 )$ in $( G_1 )$, and $( w_1 )$ and $( w_3 )$ in $( G_2 )$).
 
 
