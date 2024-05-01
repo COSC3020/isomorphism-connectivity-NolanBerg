@@ -39,6 +39,6 @@ Adjacency Preservation:
 
 Since all adjacency relations are preserved by bijection $( f )$, and $( (u,v) \in E_1 )$ iff $( (f(u),f(v)) \in E_2 )$, the graphs $( G_1 )$ and $( G_2 )$ are isomorphic.
 
-Neither $( G_1 )$ nor $( G_2 )$ is a complete graph because there are pairs of vertices in each graph that do not have an edge between them (e.g., $( v_1 )$ and $( v_3 )$ in $( G_1 )$, and $( w_1 )$ and $( w_3 )$ in $( G_2 )$).
+Neither $( G_1 )$ nor $( G_2 )$ is a complete graph because there are pairs of vertices in each graph that do not have an edge between them (e.g., $( v_1 )$ and $( v_3 )$ in $( G_1 )$, and $( w_1 )$ and $( w_3 )$ in $( G_2 ))$.
 
 
