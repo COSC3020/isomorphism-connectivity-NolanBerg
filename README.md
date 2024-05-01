@@ -37,7 +37,7 @@ Adjacency Preservation:
 
 - $( v_1 )$ is not adjacent to $( v_3 )$ in $( G_1 )$, and $( f(v_1) = w_1 )$ is not adjacent to $( f(v_3) = w_3 )$ in $( G_2 )$.
 
-Since all adjacency relations are preserved by bijection $( f )$, and $( (u,v) \in E_1 )$ if and only if $( (f(u),f(v)) \in E_2 )$, the graphs $( G_1 )$ and $( G_2 )$ are isomorphic.
+Since all adjacency relations are preserved by bijection $( f )$, and $( (u,v) \in E_1 )$ iff $( (f(u),f(v)) \in E_2 )$, the graphs $( G_1 )$ and $( G_2 )$ are isomorphic.
 
 Analysis
 
