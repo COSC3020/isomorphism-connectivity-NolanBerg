@@ -20,3 +20,5 @@ Counterexample
 Consider graphs $( G_1 )$ and $( G_2 )$ each containing three vertices, defined as follows:
 
 - $( G_1 = (V_1, E_1) )$ where $( V_1 = {v_1, v_2, v_3\} )$ and $( E_1 = {(v_1, v_2), (v_2, v_3)} )$.
+
+- $( G_2 = (V_2, E_2) )$ where $( V_2 = {w_1, w_2, w_3} )$ and $( E_2 = {(w_1, w_2), (w_2, w_3)} )$.
