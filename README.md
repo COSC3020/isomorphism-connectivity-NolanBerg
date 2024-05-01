@@ -26,3 +26,11 @@ Consider graphs $( G_1 )$ and $( G_2 )$ each containing three vertices, defined 
 Bijection $( f )$:
 
 Define $( f: V_1 \rightarrow V_2 )$ by mapping $( f(v_1) = w_1 )$, $( f(v_2) = w_2 )$, and $( f(v_3) = w_3 )$.
+
+Adjacency Preservation:
+
+- $( v_1 )$ is adjacent to $( v_2 )$ in $( G_1 )$, and $( f(v_1) = w_1 )$ is adjacent to $( f(v_2) = w_2 )$ in $( G_2 )$.
+
+- $( v_2 )$ is adjacent to $( v_3 )$ in $( G_1 )$, and $( f(v_2) = w_2 )$ is adjacent to $( f(v_3) = w_3 )$ in $( G_2 )$.
+
+- $( v_1 )$ is not adjacent to $( v_3 )$ in $( G_1 )$, and similarly, $( f(v_1) = w_1 )$ is not adjacent to $( f(v_3) = w_3 )$ in $( G_2 )$.
